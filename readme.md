@@ -1,5 +1,5 @@
 # Course Code for [Using Hooks in React 18](http://www.pluralsight.com/courses/react-18-using-hooks) on Pluralsight
-
+![Test Imag 8](https://github.com/mosesnova/CaronaTracker/blob/main/Covid.JPG)
 
 ## OTHER Recently Released Courses From Peter Kellner
 
